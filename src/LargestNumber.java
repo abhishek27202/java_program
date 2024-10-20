@@ -9,7 +9,6 @@ public class LargestNumber {
                         largest = numbers[i];  // Update largest if current number is bigger
                     }
                 }
-
                 System.out.println("The largest number is: " + largest);
     }
 }
